@@ -7,6 +7,15 @@ public class test {
         llist.add(2,10);
         llist.remove(1);
         llist.removeFirst();
+        llist.addLast(24);
+        llist.remove(24,4);
         llist.printList();
+//        System.out.println("-----------");
+//        llist.clone().printList();
+//        System.out.println(llist.indexOf(8));
+//        System.out.println(llist.contains(12));
+//        System.out.println(llist.getLast());
+//        llist.clear();
+//        llist.printList();
     }
 }
