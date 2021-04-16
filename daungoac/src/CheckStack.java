@@ -9,8 +9,19 @@ public class CheckStack {
         String str = sc.nextLine();
         char[] c = str.toCharArray();
         int count=0;
+        int count1=0;
         for(int i=0;i<c.length;i++){
             if(c[i]=='('){
+                for(int j=i+1;j<c.length;j++){
+                    if(c[j]!=' ' && c[j]!=')'){
+                        count1++;
+                        break;
+                    }
+                }
+                if(count1==0){
+                    count++;
+                    break;
+                }
                 stack.push(c[i]);
             }
             if(c[i]==')'){

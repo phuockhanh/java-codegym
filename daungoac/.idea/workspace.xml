@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e52ad33-ee57-4f3d-af17-998fea13beca" name="Default Changelist" comment="" />
+    <list default="true" id="4e52ad33-ee57-4f3d-af17-998fea13beca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../queueArray/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-3D/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2-3D/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-3D/out/production/2-3D/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../2-3D/out/production/2-3D/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-3D/out/production/2-3D/Point3D.class" beforeDir="false" afterPath="$PROJECT_DIR$/../2-3D/out/production/2-3D/Point3D.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-3D/src/Point2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2-3D/src/Point2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-3D/src/Point3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2-3D/src/Point3D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Point/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Point/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shape/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Shape/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shape/out/production/Shape/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Shape/out/production/Shape/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThucHanhInterface/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ThucHanhInterface/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../accesmodifier/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arr2chieu/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../arr2chieu/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../circle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../circle/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/daungoac/CheckStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/daungoac/CheckStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CheckStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CheckStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deleteElement/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../deleteElement/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deleteElement/out/production/deleteElement/deleteElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/../deleteElement/out/production/deleteElement/deleteElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deleteElement/src/deleteElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../deleteElement/src/deleteElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../insertElement/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../insertElement/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interfaceResizeable/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../interfaceResizeable/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linkedlist/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../linkedlist/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linkedlist/out/production/linkedlist/MyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../linkedlist/out/production/linkedlist/MyLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linkedlist/out/production/linkedlist/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../linkedlist/out/production/linkedlist/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linkedlist/src/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../linkedlist/src/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linkedlist/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../linkedlist/src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../number-text/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../number-text/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queueArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../queueArray/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queueArray/out/production/queueArray/Entry.class" beforeDir="false" afterPath="$PROJECT_DIR$/../queueArray/out/production/queueArray/Entry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queueArray/out/production/queueArray/MyQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/../queueArray/out/production/queueArray/MyQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queueArray/src/Entry.java" beforeDir="false" afterPath="$PROJECT_DIR$/../queueArray/src/Entry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queueArray/src/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../queueArray/src/MyQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack-linkedlist/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack-linkedlist/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,16 +46,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CheckStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="13" column="33" selection-end-line="33" />
+            <state relative-caret-position="162">
+              <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -36,6 +71,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -48,11 +86,13 @@
     <option name="width" value="694" />
     <option name="height" value="735" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -65,12 +105,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -113,17 +154,18 @@
       <updated>1618502535969</updated>
       <workItem from="1618502537209" duration="3103000" />
       <workItem from="1618536353097" duration="2426000" />
+      <workItem from="1618546892214" duration="1951000" />
+      <workItem from="1618555026722" duration="497000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5529000" />
+    <option name="totallyTimeSpent" value="7977000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553517" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26605505" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -132,7 +174,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.47686833" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.47686833" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -160,8 +202,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/CheckStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" column="33" selection-end-line="33" />
+        <state relative-caret-position="162">
+          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
